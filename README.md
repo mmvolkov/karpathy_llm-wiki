@@ -1,6 +1,6 @@
 # LLM Wiki
 
-**A concept by Andrej Karpathy as an alternative to traditional RAG systems**
+**LLM-Wiki — альтернатива традиционным системам RAG — Андрей Карпатый**
 
 A pattern for building personal knowledge bases using LLMs.
 
