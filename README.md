@@ -1,6 +1,4 @@
-# LLM Wiki
-
-**LLM-Wiki — альтернатива традиционным системам RAG — Андрей Карпатый**
+# LLM Wiki альтернатива традиционным системам RAG — Андрей Карпатый
 
 A pattern for building personal knowledge bases using LLMs.
 
