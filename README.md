@@ -1,5 +1,7 @@
 # LLM Wiki
 
+**A concept by Andrej Karpathy as an alternative to traditional RAG systems**
+
 A pattern for building personal knowledge bases using LLMs.
 
 **NotebookLM Demo:** https://notebooklm.google.com/notebook/98c13245-0d97-4633-b635-9e215ca6826b
